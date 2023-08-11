@@ -7,12 +7,12 @@
 #define DHTPIN 0
 DHT dht(DHTPIN, DHTTYPE,11);
 float humidity, temp_f; // Values read from
-const char* ssid = "V2022";
-const char* password = "SagarPandey";
+const char* ssid = "xxxxxxxxxx";
+const char* password = "yyyyyyyy";
 //define the parameters for the IFTTT
 #define HOSTIFTTT "maker.ifttt.com"
-#define EVENTO "Temperature_Warning"
-#define IFTTTKEY "g6oz69sBqEue_OeqhASsBb5xjmDVmOZqrtq1zgt4QTN"
+#define EVENTO "-----------"
+#define IFTTTKEY "----------------------"
 WiFiClientSecure client;
 void setup() {
 Serial.begin(115200);
