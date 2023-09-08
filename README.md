@@ -9,4 +9,4 @@ Pinout for Connecting ESP8266 with DHT11 :
 |3.3V      |    +ve     |
 |GND       | -ve(gnd)   |
 |D3        |   Data     |
-|----------|------------|
+-------------------------
