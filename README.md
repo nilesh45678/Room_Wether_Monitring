@@ -5,7 +5,7 @@ The IoT Room Environment Monitoring System is a project that utilizes the ESP826
 Pinout for Connecting ESP8266 with DHT11 :
 -------------------------
 |ESP8266   |     DHT11  |
-|          |            |
+|----------|------------|
 |3.3V      |    +ve     |
 |----------|------------|
 |GND       | -ve(gnd)   |
